@@ -190,6 +190,12 @@ const enPublicationsPageData = {
     date: "2026",
     writers: ["Zhihao He", "Xunfeng Zhuo", "Shang Yin*"],
   },
+  {
+    title: `Smart Governance and Carbon Emission Reduction: Evidence from Chinese Cities`,
+    journal: "",
+    date: "2026",
+    writers: ["Sishu Zhou", "Chenbo Wei", "Zhihao He", "Lu Song*"],
+  },
 ],
 
   type_four_title: "",
