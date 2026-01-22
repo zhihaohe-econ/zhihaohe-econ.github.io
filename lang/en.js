@@ -77,7 +77,7 @@ const enPublicationsPageData = {
       status: "",
       abstract: `This paper explores macroprudential policy implementation within a hierarchical government structure, focusing on the fiscal effects on local governments when the Chinese government restricts financing for real estate developers to address property market risks. Our difference-in-differences approach across Chinese prefecture-level cities provides causal evidence that financing constraints significantly elevate local government debt risk, driven by increased corporate bankruptcies and weakened land markets that reduce primary revenue sources. In response, local governments boost bond issuance, improve non-tax revenue collection, and collaborate with state-owned enterprises to stabilize land markets. Policy implications are also considered.`,
       presentations: [
-        "AEA 2026",
+        "HKU-CUHK Real Estate Doctoral Symposium",
       ],
       date: "2025",
       link: "",
