@@ -33,9 +33,9 @@ const enPublicationsPageData = {
     {
       title: `A Dataset of the Smart Governance Index for Chinese Cities`,
       journal: "Scientific Data",
-      status: "Online soon",
+      status: "",
       date: "2026",
-      link: "http://link.com",
+      link: "https://www.nature.com/articles/s41597-025-06510-7",
       replication: "https://doi.org/10.7910/DVN/7MZRIL",
       News: "https://www.cssn.cn/zzx/zzx_rdjj/202504/t20250404_5866949.shtml",
       writers: ["Lu Song", "Zhihao He", "Yinghao Pan", "Haijun Yue*"],
