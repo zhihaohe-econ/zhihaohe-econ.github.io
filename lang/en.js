@@ -115,6 +115,7 @@ const enPublicationsPageData = {
       writers: ["Guanyun Cui", "Xing Ni", "Hui Cui", "Zhihao He*"],
     },
   ],
+  type_three_title: "others",
 };
 
 // ---------- CV page data
