@@ -31,6 +31,15 @@ const enPublicationsPageData = {
 
   type_one_items: [
     {
+      title: `When Land Expropriation Increases Income: Evidence from China's Structural Transformation`,
+      journal: "Journal of Development Studies",
+      status: "",
+      date: "2026",
+      link: "",
+      replication: "",
+      writers: ["Zhihao He", "Yinghao Pan"],
+    },
+    {
       title: `A Dataset of the Smart Governance Index for Chinese Cities`,
       journal: "Scientific Data",
       status: "",
@@ -89,16 +98,6 @@ const enPublicationsPageData = {
       journal: "Journal of Happiness Studies",
       status: "Reject and Resubmit",
       abstract: `Does fulfilling a culturally prescribed preference improve subjective well-being (SWB)? This paper investigates a striking case in which the answer is no. Using the quasi-random assignment of firstborn gender and pooled data from four waves of the China Family Panel Studies (2016 to 2022), we estimate the causal effect of having a firstborn son on five dimensions of parental SWB and a composite SWB index, finding that fulfilling the culturally prescribed preference for sons significantly reduces parental SWB across multiple dimensions. This penalty is concentrated among mothers, rural residents, and parents with lower educational attainment, intensifies as firstborn children approach marriage age, and dissipates once they marry. Having a son delivers a genuine cultural psychological reward, but this benefit is progressively eroded by the housing obligations and labor supply intensification that son preference activates, with the resulting financial burden further amplified in counties with more imbalanced sex ratios where marriage-market competition is fiercer. These findings challenge the equation of revealed preference with experienced utility and illuminate the hidden SWB costs of cultural conformity.`,
-      date: "2025",
-      link: "",
-      replication: "",
-      writers: ["Zhihao He", "Yinghao Pan"],
-    },
-    {
-      title: `When Land Expropriation Increases Income: Evidence from China's Structural Transformation`,
-      journal: "Journal of Development Studies",
-      status: "Revise and Resubmit",
-      abstract: `While land expropriation historically impoverished rural populations in developing countries, we find contrasting evidence from China. Using nationally representative panel data and a generalized difference-in-differences approach, we show that expropriation increases household total net income by 8.7%, with larger long-term effects. Non-farm income rises by 16.5%, with salary income increasing by 40.5% as households shift to higher-productivity employment. This reverse pressure mechanism is strongest for agriculture-dependent households, those farther from urban centers, and those receiving higher compensation. Two mechanisms drive these results: forced labor reallocation and compensation functioning as bridge capital. China’s distinctive outcomes depend on rapid industrialization, mandatory compensation, and complementary infrastructure investments, conditions rarely present elsewhere. These findings highlight how institutional context determines whether expropriation impoverishes or enriches affected populations.`,
       date: "2025",
       link: "",
       replication: "",
