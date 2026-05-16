@@ -37,7 +37,7 @@ const enPublicationsPageData = {
       date: "2026",
       link: "",
       replication: "",
-      writers: ["Zhihao He", "Yinghao Pan"],
+      writers: ["Zhihao He", "Yinghao Pan*"],
     },
     {
       title: `A Dataset of the Smart Governance Index for Chinese Cities`,
