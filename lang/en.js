@@ -35,7 +35,7 @@ const enPublicationsPageData = {
       journal: "Journal of Development Studies",
       status: "",
       date: "2026",
-      link: "",
+      link: "https://doi.org/10.1080/00220388.2026.2671779",
       replication: "",
       writers: ["Zhihao He", "Yinghao Pan*"],
     },
