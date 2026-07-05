@@ -31,6 +31,24 @@ const enPublicationsPageData = {
 
   type_one_items: [
     {
+      title: `Smart Governance as a Driver of Institutional Efficiency: Evidence from Urban Business Environment Performance`,
+      journal: "International Review of Economics and Finance",
+      status: "",
+      date: "2026",
+      link: "https://doi.org/10.1080/00220388.2026.2671779",
+      replication: "",
+      writers: ["Sishu Zhou", "Zhihao He*", "Lu Song*"],
+    },
+    {
+      title: `Does Industrial Land Bias Crowd Out Social Public Services? Evidence from China`,
+      journal: "Land Use Policy",
+      status: "",
+      date: "2026",
+      link: "https://doi.org/10.1080/00220388.2026.2671779",
+      replication: "",
+      writers: ["Zekun Fan", "Zhihao He", "Weidong Qu*"],
+    },
+    {
       title: `When Land Expropriation Increases Income: Evidence from China's Structural Transformation`,
       journal: "Journal of Development Studies",
       status: "",
