@@ -35,7 +35,7 @@ const enPublicationsPageData = {
       journal: "International Review of Economics and Finance",
       status: "",
       date: "2026",
-      link: "https://doi.org/10.1080/00220388.2026.2671779",
+      link: "https://doi.org/10.1016/j.iref.2026.105607",
       replication: "",
       writers: ["Sishu Zhou", "Zhihao He*", "Lu Song*"],
     },
