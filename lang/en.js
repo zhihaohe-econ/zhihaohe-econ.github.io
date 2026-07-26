@@ -44,7 +44,7 @@ const enPublicationsPageData = {
       journal: "Land Use Policy",
       status: "",
       date: "2026",
-      link: "https://doi.org/10.1080/00220388.2026.2671779",
+      link: "https://doi.org/10.1016/j.landusepol.2026.108232",
       replication: "",
       writers: ["Zekun Fan", "Zhihao He", "Weidong Qu*"],
     },
