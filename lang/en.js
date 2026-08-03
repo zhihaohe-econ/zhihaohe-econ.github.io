@@ -31,6 +31,15 @@ const enPublicationsPageData = {
 
   type_one_items: [
     {
+      title: `When Policies Complement: Low-Carbon and Digital Infrastructure Pilots in China`,
+      journal: "Environmental and Sustainability Indicators",
+      status: "",
+      date: "2026",
+      link: "https://doi.org/10.1016/j.iref.2026.105607",
+      replication: "",
+      writers: ["Sishu Zhou", "Yinhong Guo", "Anteneh Bizualem Asefa*", "Zhihao He*", ],
+    },
+    {
       title: `Smart Governance as a Driver of Institutional Efficiency: Evidence from Urban Business Environment Performance`,
       journal: "International Review of Economics and Finance",
       status: "",
