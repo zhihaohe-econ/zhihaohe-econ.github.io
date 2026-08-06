@@ -35,7 +35,7 @@ const enPublicationsPageData = {
       journal: "Environmental and Sustainability Indicators",
       status: "",
       date: "2026",
-      link: "https://doi.org/10.1016/j.iref.2026.105607",
+      link: "https://doi.org/10.1016/j.indic.2026.101448",
       replication: "",
       writers: ["Sishu Zhou", "Yinhong Guo", "Anteneh Bizualem Asefa*", "Zhihao He*", ],
     },
