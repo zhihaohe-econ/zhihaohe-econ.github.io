@@ -55,7 +55,7 @@ const enHomePageData = {
   home_content: `
   <div>
     <p>Hello, I'm Zhihao He (贺志浩), a PhD candidate jointly enrolled in the Department of Land and Real Estate Management at the School of Public Administration and Policy, Renmin University of China, and the Department of Economics and Finance at the College of Business, City University of Hong Kong.</p>
-    <p>I am currently on the job market and expect to graduate in December 2026.</p>
+    <p>I am currently on the job market and expect to graduate in Jun 2027.</p>
     <h2 class="title">Research interests</h2>
     <p>Urban Economics; Real Estate Economics; Land Economics.</p>
     <h2 class="title">Research advisers</h2>
