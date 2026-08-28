@@ -111,8 +111,7 @@ const enPublicationsPageData = {
       status: "",
       date: "2026",
       link: "https://www.nature.com/articles/s41597-025-06510-7",
-      replication: "https://doi.org/10.7910/DVN/7MZRIL",
-      News: "https://www.cssn.cn/zzx/zzx_rdjj/202504/t20250404_5866949.shtml",
+      replication: "",
       writers: ["Lu Song", "Zhihao He", "Yinghao Pan", "Haijun Yue*"],
     },
     {
@@ -283,7 +282,7 @@ const zhHomePageData = {
   home_content: `
   <div>
     <p>您好，我是贺志浩，中国人民大学公共管理学院土地与房地产管理系与香港城市大学商学院经济及金融系联合培养的博士研究生。</p>
-    <p>我目前正在求职中，预计于2026年12月毕业。</p>
+    <p>我目前正在求职中，预计于2027年6月毕业。</p>
     <h2 class="title">研究方向</h2>
     <p>城市经济学；房地产经济学；土地经济学。</p>
     <h2 class="title">指导教师</h2>
