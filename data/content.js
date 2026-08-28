@@ -55,11 +55,9 @@ const enHomePageData = {
   home_content: `
   <div>
     <p>Hello, I'm Zhihao He (贺志浩), a PhD candidate jointly enrolled in the Department of Land and Real Estate Management at the School of Public Administration and Policy, Renmin University of China, and the Department of Economics and Finance at the College of Business, City University of Hong Kong.</p>
-    <p>I am currently on the job market and expect to graduate in December 2026.</p>
+    <p>I am currently on the job market and expect to graduate in Jun 2027.</p>
     <h2 class="title">Research interests</h2>
     <p>Urban Economics; Real Estate Economics; Land Economics.</p>
-    <h2 class="title">Research advisers</h2>
-    <p>ZHANG Yuesong (RUC); LEUNG Ka Yui Charles (CityU HK).</p>
   </div>
   `,
 };
@@ -282,11 +280,9 @@ const zhHomePageData = {
   home_content: `
   <div>
     <p>您好，我是贺志浩，中国人民大学公共管理学院土地与房地产管理系与香港城市大学商学院经济及金融系联合培养的博士研究生。</p>
-    <p>我目前正在求职中，预计于2026年12月毕业。</p>
+    <p>我目前正在求职中，预计于2027年6月毕业。</p>
     <h2 class="title">研究方向</h2>
     <p>城市经济学；房地产经济学；土地经济学。</p>
-    <h2 class="title">指导教师</h2>
-    <p>张跃松教授（中国人民大学）；梁嘉骝教授（香港城市大学）。</p>
   </div>
   `,
 };
@@ -399,6 +395,7 @@ const zhPublicationsPageData = {
       link: "",
       replication: "",
       writers: ["贺志浩", "宋鹭", "殷赏"],
+    },
     {
       title: `省域新质生产力发展水平测度、时空特征及其影响因素`,
       journal: "经济地理",
@@ -416,6 +413,7 @@ const zhPublicationsPageData = {
       link: "",
       replication: "",
       writers: ["李卓群", "贺志浩", "张跃松"],
+    },
   ],
 };
 
