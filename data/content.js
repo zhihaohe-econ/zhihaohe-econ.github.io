@@ -58,8 +58,6 @@ const enHomePageData = {
     <p>I am currently on the job market and expect to graduate in Jun 2027.</p>
     <h2 class="title">Research interests</h2>
     <p>Urban Economics; Real Estate Economics; Land Economics.</p>
-    <h2 class="title">Research advisers</h2>
-    <p>ZHANG Yuesong (RUC); LEUNG Ka Yui Charles (CityU HK).</p>
   </div>
   `,
 };
@@ -285,8 +283,6 @@ const zhHomePageData = {
     <p>我目前正在求职中，预计于2027年6月毕业。</p>
     <h2 class="title">研究方向</h2>
     <p>城市经济学；房地产经济学；土地经济学。</p>
-    <h2 class="title">指导教师</h2>
-    <p>张跃松教授（中国人民大学）；梁嘉骝教授（香港城市大学）。</p>
   </div>
   `,
 };
